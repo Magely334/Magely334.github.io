@@ -1,0 +1,47 @@
+/*CSS externo*/
+
+body	{background-color:#A9785A;}
+
+h1		{color: #FCEDE4;
+		text-align: center;}
+
+
+ul		{list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+		background: #965C37;
+		overflow: hidden;
+		}
+
+li 		{float: left;
+		}
+
+li a 	{display: block;
+		color: white;
+		text-align: center;
+		padding:  16px 16px;
+		text-decoration: none;
+		border-right: 2px solid #622B08;}
+
+li a:visited{
+	  color: white;
+	  background-color:#6C2C05 ;}
+
+li a:hover{
+	  background-color:#6C2C05 ;
+	  color: ghostwhite;}
+
+form {margin-left: 50px;
+	  margin-right: 50px;
+	  color: white;
+	  
+		}
+
+input {font-size: larger;}
+
+select{font-size: larger;
+		margin-left: 40px;}
+
+p {font-size: larger;}
+
+textarea {font-size: larger;}

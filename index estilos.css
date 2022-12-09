@@ -1,0 +1,76 @@
+/*CSS Externo*/
+
+body 	{background-color: #A9785A;}
+
+h1		{color: #FCEDE4;
+		 padding-top: 16px;
+		 		}	
+
+h2		{color: #FCEDE4;
+		padding-left: 20px;
+		
+		}
+
+h3		{color:  #FCEDE4;
+		padding-left: 30px;}
+
+
+h4	   {color:white ;
+		margin-right: 50px;}
+
+
+ul		{list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+		background: #965C37;
+		overflow: hidden;
+		}
+
+li 		{float: left;
+		}
+
+li a 	{display: block;
+		color: white;
+		text-align: center;
+		padding:  16px 16px;
+		text-decoration: none;
+		border-right: 2px solid #622B08;}
+
+li a:visited{
+	  color: white;
+	  background-color:#6C2C05 ;}
+
+li a:hover{
+	  background-color:#6C2C05 ;
+	  color: ghostwhite;}
+
+
+p 	{padding-left: 50px;
+	padding-right: 50px;
+	 color:white;
+	 font-size: large;
+	 font: !important;}
+
+
+
+img  {background:#6C2C05 ;
+	  padding: 16px;
+	  height: 300px;
+	  margin-left: 250px;
+	}
+
+iframe {margin-right: 50px;
+		background:#6C2C05;
+		padding: 16px 16px;}
+
+Table {color: white;
+		margin-left: 50px;
+		border-style: solid;
+		border-color:#6C2C05 ;
+		border-collapse: collapse;}
+
+th		{padding: 10px;
+		  border-bottom: solid #6C2C05;}
+
+td 		{padding: 10px;}
+
